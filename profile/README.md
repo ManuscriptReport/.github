@@ -1,4 +1,4 @@
-ManuscriptReport: Book Marketing in Minutes
+## ManuscriptReport: Book Marketing in Minutes
 
 ManuscriptReport [turns your manuscript into a complete marketing package](https://ManuscriptReport.com)-no consultants, no stress, no wasted time.
 
